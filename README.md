@@ -9,7 +9,7 @@ If you know what you are doing, you can change the directory manually from each 
 
 # Explanation of each script:
 
-- del_bg.cmd - This script turns EVERY image (with extension .jpg .png .jpeg) into a black 1x1 image and removes any kind of information from the image. It does not actually delete the files so as not to make osu complain. Note that it nullifies EVERY image recursively, so NOT ONLY map backgrounds. It does not act on already processed images, to save the life of your drive.
+- del_bg.cmd - This script turns EVERY image (with extension .jpg .png .jpeg) into a black 1x1 image and removes any kind of information from the image. It does not actually delete the files so as not to make osu! complain. Note that it nullifies EVERY image recursively, so NOT ONLY map backgrounds. It does not act on already processed images, to save the life of your drive.
 
 - del_videos.cmd - This script deletes all videos from the folder.<br>Parameters F S Q indicate respectively: F to force deletion of read-only files; S to go to sub-directories; Q not to ask for confirmation of deletion.
 
@@ -19,7 +19,7 @@ If you know what you are doing, you can change the directory manually from each 
 
 - del_hitsounds.cmd - This script deletes hitsounds from maps.
 
-- DeleteBeatmaps.exe - This is not a script, it's a program (not mine) that allows you to delete maps by game mode. Useful for those who only want to have the maps for standard mode.
+- DeleteBeatmaps.exe - This is not a script, it's a program (not mine) that allows you to delete maps by game mode.<br>Useful for those who only want to have the maps for standard mode.
 
 # Credits
 DeleteBeatmaps.exe - reddit.com/r/osugame/comments/dppptx/beatmapdeleter_delete_all_beatmaps_for_specific | https://github.com/xDabo/DeleteBeatmaps<br>
