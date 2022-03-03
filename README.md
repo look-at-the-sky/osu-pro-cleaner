@@ -1,5 +1,5 @@
 # osu-pro-cleaner-toolkit
-suckless collection of scripts for the osu! Songs directory (Work In Progress)
+suckless collection of scripts for the osu! "Songs" directory (Work In Progress)
 
 # What?
 This is a collection of Windows scripts useful for anyone who wants to "clean up" the osu! song folder and recover unnecessarily used space.
