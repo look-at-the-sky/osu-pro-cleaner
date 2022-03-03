@@ -2,8 +2,8 @@
 suckless collection of scripts for the osu! "Songs" directory (Work In Progress)
 
 # What?
-This is a collection of Windows scripts useful for anyone who wants to "clean up" the osu! song folder and recover unnecessarily used space.
-Depending on how many scripts you run and how heavy your folder is, you can free up a lot of space, up to half the total weight and maybe even more.
+This is a collection of Windows scripts useful for anyone who wants to "clean up" the osu! song folder and recover unnecessarily used space.<br>
+Depending on how many scripts you run and how heavy your folder is, you can free up a lot of space, up to half the total weight and maybe even more.<br>
 You should note that these scripts work on the "Songs" folder of osu! installed in the DEFAULT directory of the installer, namely \AppData\Local\osu! (or also referred to as %LocalAppData%).<br>
 If you know what you are doing, you can change the directory manually from each script, in case you did not install osu! in the default directory.
 
