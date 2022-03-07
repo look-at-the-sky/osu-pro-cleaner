@@ -23,4 +23,3 @@ If you know what you are doing, you can change the directory manually from each 
 
 # Credits
 DeleteBeatmaps.exe - reddit.com/r/osugame/comments/dppptx/beatmapdeleter_delete_all_beatmaps_for_specific | https://github.com/xDabo/DeleteBeatmaps<br>
-ImageMagick - https://imagemagick.org
