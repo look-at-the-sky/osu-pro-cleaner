@@ -22,4 +22,4 @@ If you know what you are doing, you can change the directory manually from each 
 - DeleteBeatmaps.exe - This is not a script, it's a program (not mine) that allows you to delete maps by game mode.<br>Useful for those who only want to have the maps for standard mode.
 
 # Credits
-DeleteBeatmaps.exe - reddit.com/r/osugame/comments/dppptx/beatmapdeleter_delete_all_beatmaps_for_specific | https://github.com/xDabo/DeleteBeatmaps<br>
+DeleteBeatmaps.exe - reddit.com/r/osugame/comments/dppptx/beatmapdeleter_delete_all_beatmaps_for_specific | https://github.com/xDabo/DeleteBeatmaps
