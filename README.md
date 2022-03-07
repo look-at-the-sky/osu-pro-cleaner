@@ -9,7 +9,7 @@ If you know what you are doing, you can change the directory manually from each 
 
 # Explanation of each script:
 
-- del_bg.cmd - This script turns EVERY image (with extension .jpg .png .jpeg) into a black 1x1 image and removes any kind of information from the image. It does not actually delete the files so as not to make osu! complain. Note that it nullifies EVERY image recursively, so NOT ONLY map backgrounds. It does not act on already processed images, to save the life of your drive.<br>This is the only script that needs ImageMagick.
+- nul_bg.cmd - This script turns EVERY image (with extension .jpg .png .jpeg) into a black 1x1 image and removes any kind of information from the image. It does not actually delete the files so as not to make osu! complain. Note that it nullifies EVERY image recursively, so NOT ONLY map backgrounds. It does not act on already processed images, to save the life of your drive.<br>This is the only script that needs ImageMagick.
 
 - del_videos.cmd - This script deletes all videos from the folder.<br>Parameters F S Q indicate respectively: F to force deletion of read-only files; S to go to sub-directories; Q not to ask for confirmation of deletion.
 
