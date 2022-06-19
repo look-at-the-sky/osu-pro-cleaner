@@ -8,6 +8,8 @@ DEL /F /S /Q osu!\Songs\*.flv
 DEL /F /S /Q osu!\Songs\*.wmv
 DEL /F /S /Q osu!\Songs\*.m4v
 DEL /F /S /Q osu!\Songs\*.mpg
+:: Delete random junk
+DEL /F /S /Q osu!\Songs\*.psd
 :: Delete skin elements
 DEL /F /S /Q osu!\Songs\default-*.png
 DEL /F /S /Q osu!\Songs\followpoint-*.png
