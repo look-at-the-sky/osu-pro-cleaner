@@ -22,7 +22,9 @@ DEL /F /S /Q osu!\Songs\cursor.png
 :: Delete storyboards
 DEL /F /S /Q osu!\Songs\*.osb
 :: Delete hitsounds
-DEL /F /S /Q osu!\Songs\*.wav
+DEL /F /S /Q osu!\Songs\normal-*.wav
+DEL /F /S /Q osu!\Songs\soft-*.wav
+DEL /F /S /Q osu!\Songs\drum-*.wav
 DEL /F /S /Q osu!\Songs\normal-*.ogg
 DEL /F /S /Q osu!\Songs\soft-*.ogg
 DEL /F /S /Q osu!\Songs\drum-*.ogg
