@@ -29,6 +29,6 @@ DEL /F /S /Q osu!\Songs\normal-*.ogg
 DEL /F /S /Q osu!\Songs\soft-*.ogg
 DEL /F /S /Q osu!\Songs\drum-*.ogg
 :: Nullify backgrounds
-FOR /R osu!\Songs\ %%A in (*.*p*g) DO IF %%~zA GTR 51 (
+FOR /R osu!\Songs\ %%A in (*.*p*g) DO IF %%~zA GTR 32 (
 popd
-copy /y png-truncated.png "%%A" > nul )
+copy /y 0.gif "%%A" > nul )
